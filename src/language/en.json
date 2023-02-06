@@ -1,0 +1,24 @@
+{
+  "lang": "language",
+  "signout": "Sign-out",
+  "support": "Support",
+  "account": "Profile",
+  "language": "Language",
+  "signup": "Sign-up",
+  "signin": "Sign-in",
+  "new-acc": "Don't hava an account?",
+  "forgot-pass": "Forgot password?",
+  "create-acc":"Create a new account :",
+  "have-acc":"Already have an account?",
+  "reset-pass":"Reset Password",
+  "welcome":"Welcome",
+  "verify":"Please verify your email to continue",
+  "send-email":"Send email",
+  "please-check":"Please check your email to reset your password.",
+  "delete-task":"Delete task",
+  "add-more":"Add more",
+  "completed":"Completed",
+  "add":"Add",
+  "cencel":"Cencel"
+
+}

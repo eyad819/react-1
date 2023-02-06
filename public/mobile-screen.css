@@ -1,0 +1,32 @@
+.hide-when-mobile {
+
+height: 200px!important;
+  flex-direction: column;
+margin-bottom: 20px;
+
+}
+
+.hide-when-mobile .ul {
+  
+  
+  flex-wrap: wrap;
+}
+p, button, a, footer, .fa-heart{
+  font-size: 17px !important;
+}
+
+
+.main-list {
+  padding: 10px 12px;
+
+}
+
+.logo{
+  font-size: 25px !important;
+}
+@media (max-width: 640px){
+  .model{
+    width: 90% !important;
+  }
+
+}

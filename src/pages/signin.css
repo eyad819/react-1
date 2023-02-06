@@ -1,0 +1,24 @@
+
+ .model .close i:hover{
+  color: orange;
+  font-size: 30px;
+
+  transition: 0.3s;
+  transform: rotate(100deg);
+}
+.check-email{
+  color: #333;
+  font-size: 16px;
+  margin-top: 25px;
+  line-height: 25px;
+}
+.forgot-pass{
+  font-size: 19px;
+  cursor: pointer;
+  font-weight: normal;
+}
+.forgot-pass:hover{
+  font-size: 20px;
+  font-weight:bold;
+  transition: 0.3s;
+}

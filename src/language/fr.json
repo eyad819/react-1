@@ -1,0 +1,29 @@
+{
+  "lang": " la langue",
+  "signout": "se déconnecter",
+  "support": "entre d'aidec",
+  "account": "Le profil",
+  "language": "la langue",
+  "signup": "S'inscire",
+  "signin": "S'identifier",
+  "to-continue":"continuer",
+  "Please":"S'il vous plaît",
+  "forgot-pass":"mot de passe oublié?",
+  "new-acc":"Vous n'avez pas de compte ?",
+  "have-acc":"Vous avez déjà un compte?",
+  "create-acc":"Créer un nouveau compte :",
+  "reset-pass":"Réinitialiser le mot de passe",
+  "welcome":"Bienvenue",
+  "verify":"Veuillez vérifier votre adresse e-mail pour continuer",
+  "send-email":"Envoyer un e-mail",
+  "please-check":"Veuillez vérifier votre adresse e-mail pour réinitialiser votre mot de passe.",
+  "delete-task":"Supprimer la tâche",
+  "add-more":"ajouter",
+  "completed":"terminé",
+  "add":"Ajouter",
+  "cencel":"Cencel"
+
+
+
+
+}   

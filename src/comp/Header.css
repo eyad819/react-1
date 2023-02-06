@@ -1,0 +1,120 @@
+.myheader .header{
+  background-color: rgba(17, 17, 17, 0.885) ;
+  height: 64px;
+}
+.dark .fa-moon {
+  display: none;
+}
+.fa-sun {
+  color: orange;
+}
+
+ul.lang-box{
+  display: none;
+  
+  position: absolute;
+  left: -16px;
+  top: 45px;
+  z-index: 5;
+  background-color: #1b1b1b;
+  border-top: 1px solid cyan;
+  width: 130px;
+  border-radius: 5px;
+}
+li.lang:hover ul.lang-box{
+display: block;
+}
+.main-list {
+  padding: 10px 15px 14px;
+font-size: 17px;
+  position: relative;
+}
+ul.lang-box li{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+padding: 10px 8px;
+text-align: start;
+border-bottom: 1px solid #eee;
+font-size: 14px;
+transition: 0.10s;
+}
+ul.lang-box li:hover{
+  background-color: #161616;
+  font-size: 15px;
+  cursor: pointer;
+}
+.hide-when-mobile {
+  display: flex;
+  justify-content: space-around;
+  align-items: center
+}
+
+
+.signout {
+  all: unset;
+  padding: 8px 15px;
+}
+@media(max-width:600px){
+  .profile{
+  margin-right:auto ;
+  margin-left: auto;
+}
+ul.lang-box{
+margin-left: 20px;
+}
+
+}
+.main-link {
+  padding: 8px 15px;
+}
+
+.main-link:hover,  .main-link.active{
+  color: cyan;
+  box-shadow: 0 0 5px cyan;
+  border-radius: 5px;
+}
+.show-when-mobile {
+  display: none;
+}
+
+.logo:hover{
+  font-size: x-large;
+}
+/* ==============================
+** Colors for Light Theme **
+=================================*/
+
+
+.light .fa-check{
+  color: #000;
+}
+.flex{
+  display: flex;
+}
+
+.light .myheader .header{
+  background-color: #59656f;
+
+}
+.light .fa-sun {
+  display: none;
+}
+.light ul.lang-box li{
+  background-color: #dbdbdb;
+  box-shadow: 0 5px 30px 0 rgb(0 0 0 / 15%);
+border-bottom: 1px solid #0b3948;
+
+}
+.light ul.lang-box li:hover{
+  background-color: #d1d1d1;
+}
+.light ul.lang-box li p{
+  color: #000;
+
+}
+.light button{
+  color: white !important;
+}
+
+

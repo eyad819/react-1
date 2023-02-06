@@ -1,0 +1,15 @@
+.myfooter footer{
+  background-color: rgba(17, 17, 17, 0.885) ;
+  padding: 18px 0;
+  text-align: center;
+  font-size: 18px;
+
+}
+
+/* ==============================
+** Colors for Light Theme **
+=================================*/
+.light .myfooter footer{
+    background-color: #59656f;
+
+}
