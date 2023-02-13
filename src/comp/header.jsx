@@ -34,7 +34,7 @@ const Header = () => {
           className="fa-solid fa-sun"
         ></i>
 
-        <ul className="flex ul">
+        <ul style={{justifyContent: "center"}}   className="flex ul">
           <li className="main-list lang">
             <p>{t("language")}</p>
 
